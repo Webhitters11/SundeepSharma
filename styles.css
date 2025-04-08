@@ -545,7 +545,7 @@ body {
     cursor:pointer;
   }
   .card-img img{
-    padding:20px;
+    width: 100%;
   }
   .card-img:hover{
     transform:  scale(1.1);
